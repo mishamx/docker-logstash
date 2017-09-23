@@ -1,4 +1,4 @@
-Filebeat for Nginx and other
+Logstash for Nginx and other
 ----------------------------
 
 How to use?
